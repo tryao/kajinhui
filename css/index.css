@@ -16,7 +16,7 @@
 .intro .con{font-family: PingFangSC-Semibold;font-size: 56px;color: #FFFFFF;letter-spacing: 0;line-height: 78px;}
 .intro .slogan{margin-top: 50px;font-family: HanziPenSC-W5;font-size: 36px;line-height: 50px; color: #FFFFFF;letter-spacing: 0;}
 
-.part02{background-image: url(../images/bg2.png);background-size: cover;height: 475px;min-width: 1000px;text-align: center;}
+.part02{background-image: url(../images/bg2.png);background-size: cover;height: 475px;min-width: 1440px;text-align: center;}
 .part02 h4{font-family: PingFangSC-Regular;font-size: 32px;color: #666666;letter-spacing: 0;line-height: 45px;padding-top: 56px;}
 .part02 ul{margin-top: 68px;width: 920px;margin-right: -100px;}
 .part02 ul li{float: left;margin-right: 100px;}
