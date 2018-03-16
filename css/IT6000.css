@@ -1,0 +1,23 @@
+.content{width: 1000px;margin: 0 auto;}
+.header{padding-top: 20px;}
+.logo{float: left; width: 292px;height: 60px;}
+.nav-warp{float: right;text-align: right;}
+.nav-warp .phone{ font-size: 24px;color: #666;}
+.nav-warp ul.nav{margin-top: 9px;}
+.nav-warp ul.nav li{float: left;margin-left: 24px;}
+.nav-warp ul.nav li a{font-size: 16px;color: #797979;line-height: 22px;}
+.nav-warp ul.nav li.cur a{color: #0076ff;}
+.nav-warp ul.nav li:hover a{color: #0076ff;}
+.nav-warp ul.nav li .underline{display: block; width: 0;height: 2px;}
+.nav-warp ul.nav li.cur .underline{width: 100%;background-color:#0076ff;border-radius: 4px;}
+.nav-warp ul.nav li:hover .underline{width: 100%;background-color:#0076ff;border-radius: 4px; }
+
+
+.part02 .sub-nav{margin: 14px 0 0 70px;font-size: 24px;color: #666666;line-height: 33px;}
+.part02 .arr{margin-right: 10px;height: 13px;width: 13px;display: inline-block;border-top: 1px solid #666;border-right: 1px solid #666;transform:rotate(45deg);
+-ms-transform:rotate(45deg); 	/* IE 9 */
+-moz-transform:rotate(45deg); 	/* Firefox */
+-webkit-transform:rotate(45deg); /* Safari 和 Chrome */
+-o-transform:rotate(45deg); 	/* Opera */}
+.part02 .intro-wrap{width: 720px;margin: 66px auto 0;}
+.part02 .footer{margin: 100px 0 40px 0; text-align: center; line-height: 18px; font-size: 12px;color: #999;letter-spacing: 0;}

@@ -1,0 +1,42 @@
+/*.part01{background-image: url(../images/bg.png);height: 740px;min-width: 1000px;}*/
+.content{width: 1000px;margin: 0 auto;}
+.header{padding-top: 20px;}
+.logo{float: left; width: 292px;height: 60px;}
+.nav-warp{float: right;text-align: right;}
+.nav-warp .phone{ font-size: 24px;color: #666;}
+.nav-warp ul.nav{margin-top: 9px;}
+.nav-warp ul.nav li{float: left;margin-left: 24px;}
+.nav-warp ul.nav li a{font-size: 16px;color: #797979;line-height: 22px;}
+.nav-warp ul.nav li.cur a{color: #0076ff;}
+.nav-warp ul.nav li:hover a{color: #0076ff;}
+.nav-warp ul.nav li .underline{display: block; width: 0;height: 2px;}
+.nav-warp ul.nav li.cur .underline{width: 100%;background-color:#0076ff;border-radius: 4px;}
+.nav-warp ul.nav li:hover .underline{width: 100%;background-color:#0076ff;border-radius: 4px; }
+.intro{margin-top: 210px; text-align: center;width: 1000px;}
+.intro .con{font-family: PingFangSC-Semibold;font-size: 56px;color: #FFFFFF;letter-spacing: 0;line-height: 78px;}
+.intro .slogan{margin-top: 50px;font-family: HanziPenSC-W5;font-size: 36px;line-height: 50px; color: #FFFFFF;letter-spacing: 0;}
+
+.part02{width: 1000px;margin: 0 auto;}
+.part02 h3.tit{margin: 14px 0 10px 68px;line-height: 33px; font-family: PingFangSC-Regular;font-size: 24px;color: #666666;letter-spacing: 0;}
+.part02 .blk1{float: left;width: 224px;height: 300px;}
+.part02 .blk1 li{height: 36px;width: 156px;padding-left: 68px;line-height: 36px;}
+.part02 .blk1 li.cur{background-color: #eee;}
+.part02 .blk1 li.cur a{color: #0076FF;}
+.part02 .blk1 li a{font-family: PingFangSC-Regular;font-size: 16px;color: #999999;letter-spacing: 0;}
+.part02 .blk2 {padding-left: 31px;border-left: 1px solid #eee;float: left;width: 744px;}
+.part02 .blk2 li h3.head{font-family: PingFangSC-Regular;font-size: 24px;color: #666666;letter-spacing: 0;}
+.part02 .blk2 .item-wrap{margin-top: 45px;}
+.part02 .blk2 .item-wrap li{margin-right: 34px;float: left;}
+.part02 .blk2 .item-wrap li .item-img{width: 152px;height: 152px;}
+.part02 .blk2 .item-wrap li p{margin: 12px 0 32px 0;width: 152px; text-align: center; font-family: PingFangSC-Regular;font-size: 14px;color: #666666;letter-spacing: 0;}
+.part02 .sq-img{height: 683px;width: 493px;margin: 32px auto;display: block;}
+.part02 .footer{margin: 46px 0 35px 0;line-height: 18px; font-size: 12px;color: #999;letter-spacing: 0;text-align: center;}
+
+#sub-nav[data-fixed="fixed"]{
+        position: fixed;
+        top:0;
+        /*left: 0;*/
+        margin: 0;
+    }
+.part02 .blk2 li.blk{padding-top: 60px;}
+.part02 .blk2 li.li-first {margin-top: 0;padding-top: 0;}
